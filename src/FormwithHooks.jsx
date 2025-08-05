@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-// Main App component
+// Main  component
 function FormwithHooks() {
   // State to hold the form input values
   const [formData, setFormData] = useState({
