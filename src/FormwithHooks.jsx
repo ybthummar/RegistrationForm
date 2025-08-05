@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 // Main App component
-function App() {
+function FormwithHooks() {
   // State to hold the form input values
   const [formData, setFormData] = useState({
     firstName: '',
@@ -165,4 +165,4 @@ function App() {
   );
 }
 
-export default App;
+export default FormwithHooks;
