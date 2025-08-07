@@ -38,9 +38,8 @@ You need to have [Node.js](https://nodejs.org/) and `npm` (or `yarn`) installed 
 ### Installation
 
 1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-    ```
+    
+    git clone [https://github.com/ybthummar/RegistrationForm.git](https://github.com/ybthummar/RegistrationForm.git)
 
 2.  **Navigate to the project directory:**
     ```bash
