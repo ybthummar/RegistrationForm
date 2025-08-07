@@ -5,6 +5,6 @@ import FormwithHooks from './FormwithHooks.jsx'
 import FormwithClass from './FormwithClass.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <FormwithHooks />
+    <FormwithClass />
   </StrictMode>,
 )
